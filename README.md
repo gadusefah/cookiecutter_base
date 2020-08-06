@@ -14,5 +14,6 @@ Create virtualenv using poetry
 
 ## Set Up Pre-Commit
 `pre-commit install`
+
 `pre-commit run --all-files`
 
