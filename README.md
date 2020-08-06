@@ -6,6 +6,7 @@ cookiecutter https://github.com/gadusefah/cookiecutter_base.git
 
 ## After Downloading
 Create virtualenv using poetry
+
 `poetry shell`
 
 ## Install dependencies
